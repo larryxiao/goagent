@@ -1,3 +1,6 @@
+now you change the CA you trust
+just run newCA.py
+
 wanted to allow user to create/specify own private  CA
 to replace the default one
 

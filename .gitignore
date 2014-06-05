@@ -8,3 +8,5 @@
 *.egg
 *.pid
 *.user.ini
+local/certs/.*
+local/proxy.ini
